@@ -1,0 +1,12 @@
+{
+  "name": "curd_prictceexpress",
+  "version": "1.0.0",
+  "description": "Node mysql crud API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

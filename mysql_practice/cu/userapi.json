@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"suraj maurya",
+        "username" :"subh",
+        "phon.no":6388422642,
+        "city":"lucknow"
+
+    },
+    {
+        "id":1,
+        "name":"anjeet maurya",
+        "username" :"subhash",
+        "phon.no":1234567891,
+        "city":"sitapur"
+
+    },
+    {
+        "id":1,
+        "name":"shivam maurya",
+        "username" :"subh",
+        "phon.no":6388465442,
+        "city":"hardoi"
+
+    }
+]

@@ -1,0 +1,3 @@
+create npm project
+
+create index css js files

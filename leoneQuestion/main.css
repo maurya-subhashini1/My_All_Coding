@@ -1,0 +1,14 @@
+/* :root{
+    --primary-color:g
+} */
+
+input{
+    margin-top: 5rem;
+    border: 2px solid black;
+}
+button{
+    margin-top: 6rem;
+}
+body{
+    text-align: center;
+}
